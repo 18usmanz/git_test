@@ -1,0 +1,9 @@
+I am testing a text file
+
+Learning how to use Git in the command line 
+
+Git in command line is a lot more effective
+
+More effective than Git in a GUI environment 
+
+Because Git in command means you can use all of the Git's feature 
